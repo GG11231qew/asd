@@ -36,7 +36,7 @@ curcontent["rules"] = {
 <p><li>При согласии на проверку вы разрешаете устанавливать сторонние программы нужные администрации для проверки вашего PC.</li></p>\
 <p><li>Выход с сервера во время вызова на проверку увенчается блокировкой.</li></p>\
 <p><li>Запрещено чистить ПК перед проверкой.</li></p>\
-</ul><div class="unban" style="background: white; border-radius: 10px; padding: 20px;"><p class="MsoNormal" style="font-weight: bold; margin-bottom: 5px;">Возможность разблокровки</p><span>Через месяц после блокировки можно подать апелляцию, но, только в случае если бан был получен не за читы или макросы. Писать апелляцию нужно в личные сообщения группы: <a href="https://vk.com/rustepsilon">vk.com/rustepsilon</a></span></div></div></div>'
+</ul><div class="unban" style="background: black; border-radius: 10px; padding: 20px;"><p class="MsoNormal" style="font-weight: bold; margin-bottom: 5px;">Возможность разблокровки</p><span>Через месяц после блокировки можно подать апелляцию, но, только в случае если бан был получен не за читы или макросы. Писать апелляцию нужно в личные сообщения группы: <a href="https://vk.com/rust_ling">https://vk.com/rust_ling</a></span></div></div></div>'
 };
 
 function Open(el, usefade = true, zind = false) {
